@@ -1,0 +1,63 @@
+body{
+    background-color: rgb(151, 199, 248);
+    font-size: large;
+}
+h1{
+    font-family: sans-serif;
+    width: 300px;
+}
+.imagen{
+    position: relative;
+    top: -105px;
+    left: 105px;
+    width: 155.54px;
+    height: 155.17px;    
+    background: url(image002.jpg);
+    border-radius: 76.7142px;
+    transform: rotate(-0.44deg);
+}
+.lorem{
+    background-color: rgb(255, 255, 255);
+}
+.titulo {
+width:850px;
+height: 42px;
+padding-left: 670px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 37px;
+}
+.h3{
+    width:750px;
+    height: 42px;
+    padding-left:125px ;
+    text-align:right;
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+}
+.contenedor{
+    display:flex ;
+    justify-content:start;
+}
+.Links{
+    position: relative;
+    top:-50px; 
+    left: 500px;
+    font-family: 'Montserrat Alternates';
+    font-style: normal;
+    font-weight: 600px;
+    font-size: 25px;
+    line-height: 30px;
+    text-decoration: none;
+    display: flex;
+    justify-content:center; margin-top: 50px;
+    flex-direction:column-reverse;
+    width:750px;
+    height: 42px;
+}

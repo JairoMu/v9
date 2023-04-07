@@ -1,0 +1,68 @@
+body{
+    background-color:rgb(151, 199, 248);
+    font-size: large;
+}
+.experencia {
+    position: relative;
+    top:-100px;
+    left:550px;
+    width:350px;
+    height:42px;
+    text-align:right;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 37px;
+}
+ul{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+}
+.Links2{
+    position: relative;
+    display: block;
+    color: white;
+    background-color: black;
+    top: -400px;
+    left:0px;
+    text-decoration:none;   
+    float: left;
+    padding: 10px 90px;
+    font-size: 20px;
+    border-radius: 42px;
+    transform:rotate(4);
+}
+.h3E{
+    position: relative;
+    top:-100px;
+    left:55px;
+    width:795px;
+    height: 45px;
+    text-align:right;
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+}
+.exp{
+    position: relative;
+    top:250px;
+    left:12px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style:normal;
+    font-weight: 650;
+    font-size: 20px;
+}
+.ferycrazy{
+    position: relative;
+    top: 260px;
+    left: 105px;
+    width: 155.54px;
+    height: 155.17px;    
+    border-radius: 76.7142px;
+    transform: rotate(-0.44deg);
+}
